@@ -1,0 +1,20 @@
+### ,Payload name (number) ,Payload type ,Quantity ,Start Node ,Target Node ,Time Window Start ,Time Window End ,Must launch with or after payload no.: ,Must launch strictly after: ,Must launch strictly with: ,Reference
+0,PRIME-1 ,5,40,0,4,0,5, , , ,NASA - NSSDCA - Spacecraft - Details
+1,Griffin Test Flight ,5,450,0,4,3,15, , , ,
+2,CADRE Rovers ,5,30,0,4,3,15, , , ,IEEE Xplore Full-Text PDF:
+3,Artemis II Crew ,1,4,0,2,3,15, , , ,NASA Delays Next Artemis Missions to 2025 and 2026 � SpacePolicyOnline.com
+4,Prospect ,5,90,0,4,12,18, , , ,
+5,LuSEE-Lite ,5,90,0,4,15,27, , , ,
+6,LuSEE-Night ,5,90,0,4,15,27, ,5, ,Blue Ghost Mission 2 - Firefly Aerospace
+7,Lunar Pathfinder ,5,280,0,3,15,27, , , ,Lunar Surface Electromagnetics Experiment-Night (LuSEE-Night) | Network for Exploration and Space Science | University of Colorado Boulder
+8,Artemis III Orbit Crew ,1,2,0,3,24,39, , , ,NASA Delays Next Artemis Missions to 2025 and 2026 � SpacePolicyOnline.com
+9,Artemis III Surface Crew ,1,2,0,4,24,39, , ,8,NASA Delays Next Artemis Missions to 2025 and 2026 � SpacePolicyOnline.com
+10,Gateway HALO ,2,9000,0,2,27,51, , , ,
+11,Gateway I-HAB ,2,10000,0,2,39,51, , , ,
+12,Artemis IV Orbit Crew ,1,2,0,2,39,51,11,10, ,
+13,Artemis IV Surface Crew ,1,2,0,4,39,51, , ,12,
+14,Gateway ESPRIT ,2,10000,0,2,63,75, , , ,
+15,Canadarm3 ,2,715,0,2,63,75,14, , ,"Canadarm, Canadarm2, and Canadarm3 � A comparative table | Canadian Space Agency"
+16,Lunar Terrain Vehicle ,5,300,0,4,63,75, , , ,Mass estimated based off Apollo rover
+17,Artemis V Orbit Crew ,1,2,0,2,63,75,"15, 16", , ,
+18,Artemis V Surface Crew ,1,2,0,4,63,75, , ,17,

@@ -1,0 +1,11 @@
+### ,Payload name (number) ,Payload type ,Quantity ,Start Node ,Target Node ,Time Window Start ,Time Window End ,Must launch with or after payload no.: ,Must launch strictly after: ,Must launch strictly with: ,Reference
+0,ispace M2 Rover ,5,5,0,4,0,2,,,,ispace Announces Mission 2 with Unveiling of Micro Rover Design | ispace
+1,Blue Ghost M1 ,5,94,0,4,0,2,,,,NASA Selects Firefly Aerospace for Artemis Commercial Moon Delivery in 2023 - NASA
+2,PRIME-1 ,5,40,0,4,0,5,,,,NASA - NSSDCA - Spacecraft - Details
+3,Griffin Test Flight ,5,450,0,4,3,15,,,,
+4,Luner Vertex ,5,50,0,4,3,15,,,,1131.pdf
+5,CADRE Rovers ,5,30,0,4,3,15,,,,IEEE Xplore Full-Text PDF:
+6,Prospect ,5,90,0,4,12,18,,,,
+7,LuSEE-Lite ,5,90,0,4,15,27,,,,
+8,LuSEE-Night ,5,90,0,4,15,27,,7,,Blue Ghost Mission 2 - Firefly Aerospace
+9,Lunar Pathfinder ,5,280,0,3,15,27,,,,Lunar Surface Electromagnetics Experiment-Night (LuSEE-Night) | Network for Exploration and Space Science | University of Colorado Boulder
