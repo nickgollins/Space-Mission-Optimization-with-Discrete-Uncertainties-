@@ -14,7 +14,9 @@ This project is about large (many mission) exploration campaign schedule optimiz
     - lib\noisy_GA\noisy_GA.py
     - executed by src\run_NGA.py
 
-A journal manuscripting containing a full description of all of the above has been accepted for publication in the Journal of Spacecraft and Rockets. This file will be updated with the DOI when available.
+A full description of all of the above is available in the following reference [1]
+
+[1] Gollins, N; Grieser, Z; Ho, K, Multi-Objective Optimization of Space Exploration Campaign Schedules with Stochastic Launch Delay, Journal of Spacecraft and Rockets, 2025
 
 ## Installation
 ```
@@ -123,5 +125,6 @@ pop = algo.evolve(pop,
                  output_file="output/case_studies/Artemis_correct_variance.csv")
 ```
 # Acknowledgment
-This material is based upon work supported by the National Science Foundation under Award No. 1942559. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+This material is based upon work partially supported by the National Science Foundation under Award No. 1942559. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
   
+
