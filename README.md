@@ -16,7 +16,7 @@ This project is about large (many mission) exploration campaign schedule optimiz
 
 A full description of all of the above is available in the following reference [1]
 
-[1] Gollins, N; Grieser, Z; Ho, K, Multi-Objective Optimization of Space Exploration Campaign Schedules with Stochastic Launch Delay, Journal of Spacecraft and Rockets, 2025
+[1] Gollins, N; Grieser, Z; Ho, K, Multi-Objective Optimization of Space Exploration Campaign Schedules with Stochastic Launch Delay, Journal of Spacecraft and Rockets, 2026, https://doi.org/10.2514/1.A36412
 
 ## Installation
 ```
@@ -127,4 +127,5 @@ pop = algo.evolve(pop,
 # Acknowledgment
 This material is based upon work partially supported by the National Science Foundation under Award No. 1942559. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
   
+
 
